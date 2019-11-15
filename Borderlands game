@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<div id="Borderlands Title">
+			<h1><span style="border: 4px solid black">Borderlands 3</span></h1>
+		</div>
+
+	</head>
+
+	<body style="background-image:url(https://www.ivybusiness.iastate.edu/undergraduate/files/2017/01/Red-Background-Traingles.jpg)">
+		<img src="https://media.gamestop.com/i/gamestop/10175068/Borderlands-3-Super-Deluxe-Edition"Width="300" Height="350"/>
+		<div id="Description">
+			<h3>Borderlands 3 is an action role-playing first-person shooter video game developed by Gearbox Software and published by 2K Games. </h3>
+			<h3>It is the sequel to 2012's Borderlands 2, and the fourth main entry in the Borderlands series.</h3>
+			<h3>Released on September 13, 2019</h3>
+			<h3>Rating is:</h3>
+			<img src="http://megagameshub.files.wordpress.com/2013/06/star-rating-9.png?w=627" Width="200" Height="200"/>
+		</div>	
+		<div id="IGN">
+			<h1>On <font size="+3"><a href="https://ca.ign.com/">IGN.com</a></font></h1>
+			
+		
+	</body>
+</html>
